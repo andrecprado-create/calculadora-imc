@@ -1,0 +1,12 @@
+{
+  "name": "calculadora-imc-api",
+  "version": "1.0.0",
+  "description": "Projeto Web com API REST para cálculo de IMC no backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
